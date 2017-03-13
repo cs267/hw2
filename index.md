@@ -1,31 +1,3 @@
--   [CS267 Assignment 2: Parallelize Particle Simulation](#cs267-assignment-2-parallelize-particle-simulation)
--   [Overview](#overview)
--   [Remote XSEDE/Moodle Students: Please Read](#remote-xsedemoodle-students-please-read)
--   [Correctness and Performance](#correctness-and-performance)
--   [Teams](#teams)
--   [Source Code](#source-code)
-    -   [Common Files for Parts 1 & 2](#common-files-for-parts-1-2)
--   [Part 1: Serial & OpenMP](#part-1-serial-openmp)
-    -   [Source Code (contained in the above zip file under "Source Code")](#source-code-contained-in-the-above-zip-file-under-source-code)
-    -   [Part 1 Submission](#part-1-submission)
--   [Part 2: MPI](#part-2-mpi)
-    -   [Source Code (contained in the above zip file under "Source Code")](#source-code-contained-in-the-above-zip-file-under-source-code-1)
-    -   [Submission](#submission)
--   [Part 3: GPU](#part-3-gpu)
-    -   [Overview](#overview-1)
-    -   [Source Code (To Be Released)](#source-code-to-be-released)
-    -   [Help](#help)
-    -   [Submission](#submission-1)
--   [Resources](#resources)
-
-# CS267 Assignment 2: Parallelize Particle Simulation
-
-This is a repository for team 10 to work on HW 2 for CS 267 in UCB in Spring, 2017. Below is a copy of the problem.
-
-To ease setting up the correct environment on NERSC, please run:
-
-    source ./bin/env.sh
-
 [Source](https://sites.google.com/a/lbl.gov/cs267-spring-2017/home/homework-2 "Permalink to Homework 2 - CS267 Spring 2017")
 
 # Overview
